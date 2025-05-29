@@ -1,15 +1,10 @@
 # Hi there! 👋 I'm Ana 👩‍💻 
-**Quant | ML Explorer | Curious Mind**
 
 🧠 **Quantitative Analyst** with 9+ years of experience in systematic trading, model development, and risk analytics across FX and fixed income markets  
 🔬 PhD in Physics turned quant – with research spanning quantum optics to econophysics  
-⚡ Passionate about building elegant solutions to complex problems where mathematics, finance, and machine learning meet  
+⚡ Passionate about building elegant and robust solutions to complex problems where mathematics, finance, and machine learning meet  
 🐍 Python enthusiast who loves to learn and share
-
-
-## 📚 Learning Mindset
-I'm a lifelong learner fascinated by how financial systems behave under uncertainty and how models can be made both robust and interpretable.  
-This space is where I turn curiosity into code, blending quantitative finance, statistical learning, and risk management.
+📚 Lifelong learner fascinated by financial markets and human behaviour
 
 
 ## 🚀 Current Project  
@@ -35,6 +30,3 @@ This space is where I turn curiosity into code, blending quantitative finance, s
 - 💬 Always happy to chat about quant ideas and modelling challenges 
 
 📫 **Let's connect**: [LinkedIn](https://linkedin.com/in/acontrerasreyes) 
-
-
-

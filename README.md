@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Ana 👩‍💻 
 
-🧠 **Quantitative Analyst** with 9+ years of experience in systematic trading, model development, and risk analytics across FX and fixed income markets  
+🧠 **Quantitative Analyst** with 9+ years of experience in model development, risk analytics and FX systematic trading.  
 🔬 PhD in Physics turned quant – with research spanning quantum optics to econophysics  
-⚡ Passionate about building elegant and robust solutions to complex problems where mathematics, finance, and machine learning meet  
+⚡ Passionate about building robust solutions to complex problems where mathematics, finance, and machine learning meet  
 🐍 Python enthusiast who loves to learn and share
 📚 Lifelong learner fascinated by financial markets and human behaviour
 

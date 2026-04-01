@@ -14,14 +14,6 @@
 ## 🌱 Actively Exploring  
 - AI/ML for financial time series
 - Generative models for simulation & stress testing
-- Brain-inspired approaches to learning and prediction
-  
-
-## 🧠 Beyond the code
-🐕 Long walks with my French Bulldog  
-🧘‍♀️ Hot yoga sessions for mental clarity  
-🎵 Techno beats for coding marathons  
-✈️ Exploring new places and cultures  
 
 
 ## 🔍 Currently
